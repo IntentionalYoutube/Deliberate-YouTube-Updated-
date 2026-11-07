@@ -1,5 +1,6 @@
 # Deliberate-Youtube
 An intention-aware Chrome extension exploring how interface design can support more deliberate YouTube use.
+https://chromewebstore.google.com/detail/deliberate-youtube/gkhfmpgkclckdkbhlkbcelhnigdclklp
 
 Project Overview 
 
