@@ -126,9 +126,5 @@ Feedback and Contributions
 
 Feedback regarding usability, behavioral feedback, interface interventions, and potential improvements is welcome. 
 
-Share Feedback 
-
-Report a Bug 
-
  
  
